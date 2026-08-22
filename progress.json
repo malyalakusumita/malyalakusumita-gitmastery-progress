@@ -1,23 +1,5 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1787401986.471115,
-    "completed_at": 1787401988.431739,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1787402374.217398,
-    "completed_at": 1787402376.297628,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "grocery-shopping",
     "started_at": 1787402790.614136,
     "completed_at": 1787402792.784746,
@@ -32,5 +14,32 @@
     "completed_at": 1787403653.892268,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787402374.217398,
+    "completed_at": 1787402376.297628,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787401986.471115,
+    "completed_at": 1787401988.431739,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787408668.486306,
+    "completed_at": 1787408696.539771,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
