@@ -95,5 +95,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787411215.321496,
+    "completed_at": 1787411217.712922,
+    "comments": [
+      "C:\\Users\\malya\\gitmastery-home\\gitmastery-exercises\\push-over\\push-this"
+    ],
+    "status": "Error"
   }
 ]
