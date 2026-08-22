@@ -104,5 +104,14 @@
       "C:\\Users\\malya\\gitmastery-home\\gitmastery-exercises\\push-over\\push-this"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787411976.813223,
+    "completed_at": 1787411985.356085,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
