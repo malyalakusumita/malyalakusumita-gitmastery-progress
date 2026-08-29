@@ -376,23 +376,5 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1788003264.901085,
-    "completed_at": 1788003269.629318,
-    "comments": [
-      "New commit in the remote ABC branch is not pulled to the local ABC branch."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1788003335.130331,
-    "completed_at": 1788003340.45694,
-    "comments": [
-      "New commit in the remote ABC branch is not pulled to the local ABC branch."
-    ],
-    "status": "Incomplete"
   }
 ]
